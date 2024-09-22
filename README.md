@@ -27,6 +27,8 @@
 
 ## My Recent Blog Post ✍️
 <p>- [Building a Decentralized Job Board Application on ICP with Rust: A Step-by-Step Guide](https://ajayidamolaramon.hashnode.dev/building-a-decentralized-job-board-application-on-icp-with-rust-a-step-by-step-guide)</p>
+<p>- [Building a Tic-Tac-Toe Game on Solana: A Step-by-Step Guide Using Anchor and Rust](https://ajayidamolaramon.hashnode.dev/building-a-tic-tac-toe-game-on-solana-a-step-by-step-guide-using-anchor-and-rust)</p>
+<p>- [Rust Traits for Beginners: A Comprehensive Guide](https://ajayidamolaramon.hashnode.dev/rust-traits-for-beginners-a-comprehensive-guide)</p>
 
 <!--
 **0xjustAJ/0xjustAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
