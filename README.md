@@ -5,10 +5,10 @@
 <h3 align="center">A Blockchain Developer with Rust, Data Analyst, and Technical Writer</h3>
 
 <p>- 🔭 I’m currently building cutting-edge web3 tools and innovative platforms through code.</p>
-<p>- 🌱 I’m open to entry-level smart contract engineer roles with Rust as well as collaborations on open-source projects, hackathons, and code challenges. I really enjoy learning and working with new technologies like Rust, Go, and R programming language to create exciting projects.</p>
+<p>- 🌱 I’m open to entry-level smart contract engineer roles with Rust and collaborations on open-source projects, hackathons, and code challenges. I enjoy learning and working with new technologies like Rust, Go, and R programming languages to create exciting projects.</p>
 <p>- 🔭 Currently working with Rust, Go, and R programming language to solve complex problems in blockchain and data science.</p>
-<p>- 🌱 I’m a graduate of Statistics, a technical writer, data analyst, and Rust developer.</p>
-<p>- 👯 I’m looking to collaborate on innovative and challenging code projects.</p>
+<p>- 🌱 I’m a Statistics graduate, technical writer, data analyst, and Rust developer.</p>
+<p>- 👯 I want to collaborate on innovative and challenging code projects.</p>
 <p>- 📫 How to reach me: <a href="mailto:ajayidamola4@gmail.com">ajayidamola4@gmail.com</a></p>
 <p>- ⚡ Fun fact: I love watching movies, playing games, traveling, and building exciting projects.</p>
 
