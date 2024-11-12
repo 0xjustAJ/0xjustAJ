@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="#"><img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fliberalartsedu.org%2Ftechnical-writer-jobs%2F&psig=AOvVaw1DxFjZ4Ew9sW-msTjv2hH_&ust=1731532320756000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCKifnaTb14kDFQAAAAAdAAAAABAJ" alt="Developer and Technical Writer Image" /></a>
+<a href="#"><img width="100%" height="auto" src="https://www.google.com/imgres?q=technical%20writer%20pictures%20to%20dowload&imgurl=https%3A%2F%2Fplus.unsplash.com%2Fpremium_photo-1683491155621-cd42e847d646%3Ffm%3Djpg%26q%3D60%26w%3D3000%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MXx8dGVjaG5pY2FsJTIwd3JpdGluZ3xlbnwwfHwwfHx8MA%253D%253D&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ftechnical-writing&docid=yv2zwaJEn_RFjM&tbnid=DLTTUapbUhEmrM&vet=12ahUKEwjik7jV3deJAxX7cKQEHTLEMHoQM3oECBgQAA..i&w=3000&h=2000&hcb=2&ved=2ahUKEwjik7jV3deJAxX7cKQEHTLEMHoQM3oECBgQAA" alt="Developer and Technical Writer Image" /></a>
 
 <h1 align="center">Hi 👋, I'm Ajayi Damola Ramon</h1>
 <h3 align="center">A Blockchain Developer with Rust, Data Analyst, and Technical Writer</h3>
