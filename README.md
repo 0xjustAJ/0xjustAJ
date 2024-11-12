@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="#"><img width="100%" height="auto" src="https://www.google.com/imgres?q=technical%20writer%20picture&imgurl=https%3A%2F%2Fwww.mediabistro.com%2Fwp-content%2Fuploads%2F2016%2F07%2Ftechnical-writing-400x225.jpg&imgrefurl=https%3A%2F%2Fwww.mediabistro.com%2Fgo-freelance%2Fjournalism-advice%2Ftechnical-writing%2F&docid=nUJmuurD8WjhUM&tbnid=HW5hM_5NIYKikM&vet=12ahUKEwiUi9zW2teJAxXpUEEAHcYoPd4QM3oECBoQAA..i&w=400&h=225&hcb=2&ved=2ahUKEwiUi9zW2teJAxXpUEEAHcYoPd4QM3oECBoQAA" alt="Developer and Technical Writer Image" /></a>
+<a href="#"><img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mediabistro.com%2Fgo-freelance%2Fjournalism-advice%2Ftechnical-writing%2F&psig=AOvVaw1DxFjZ4Ew9sW-msTjv2hH_&ust=1731532320756000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKifnaTb14kDFQAAAAAdAAAAABAE" alt="Developer and Technical Writer Image" /></a>
 
 <h1 align="center">Hi 👋, I'm Ajayi Damola Ramon</h1>
 <h3 align="center">A Blockchain Developer with Rust, Data Analyst, and Technical Writer</h3>
