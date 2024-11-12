@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="#"><img width="100%" height="auto" src="https://www.clearvoice.com/wp-content/uploads/2023/04/11.10.17_Hero_1360x646.jpg" alt="Developer and Technical Writer Image" /></a>
+<a href="#"><img width="100%" height="auto" src="https://www.google.com/imgres?q=technical%20writer%20picture&imgurl=https%3A%2F%2Fwww.mediabistro.com%2Fwp-content%2Fuploads%2F2016%2F07%2Ftechnical-writing-400x225.jpg&imgrefurl=https%3A%2F%2Fwww.mediabistro.com%2Fgo-freelance%2Fjournalism-advice%2Ftechnical-writing%2F&docid=nUJmuurD8WjhUM&tbnid=HW5hM_5NIYKikM&vet=12ahUKEwiUi9zW2teJAxXpUEEAHcYoPd4QM3oECBoQAA..i&w=400&h=225&hcb=2&ved=2ahUKEwiUi9zW2teJAxXpUEEAHcYoPd4QM3oECBoQAA" alt="Developer and Technical Writer Image" /></a>
 
 <h1 align="center">Hi 👋, I'm Ajayi Damola Ramon</h1>
 <h3 align="center">A Blockchain Developer with Rust, Data Analyst, and Technical Writer</h3>
@@ -26,6 +26,7 @@
 <p>- Check out my technical articles on <a href="https://hashnode.com/66e43395d5c78fba1461c872/dashboard/posts" target="_blank">Hashnode</a>.</p>
 
 ## My Recent Blog Post ✍️
+<p>- [Getting Started With NEAR PROTOCOL: A Beginner's Guide to Building Decentralized Apps](https://ajayidamolaramon.hashnode.dev/getting-started-with-near-protocol-a-beginnerss-guide-to-building-decentralized-apps)</p>
 <p>- [Building a Decentralized Job Board Application on ICP with Rust: A Step-by-Step Guide](https://ajayidamolaramon.hashnode.dev/building-a-decentralized-job-board-application-on-icp-with-rust-a-step-by-step-guide)</p>
 <p>- [Building a Tic-Tac-Toe Game on Solana: A Step-by-Step Guide Using Anchor and Rust](https://ajayidamolaramon.hashnode.dev/building-a-tic-tac-toe-game-on-solana-a-step-by-step-guide-using-anchor-and-rust)</p>
 <p>- [Rust Traits for Beginners: A Comprehensive Guide](https://ajayidamolaramon.hashnode.dev/rust-traits-for-beginners-a-comprehensive-guide)</p>
