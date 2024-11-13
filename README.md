@@ -26,7 +26,7 @@
 <p>- Check out my technical articles on <a href="https://hashnode.com/66e43395d5c78fba1461c872/dashboard/posts" target="_blank">Hashnode</a>.</p>
 
 ## My Recent Blog Post ✍️
-<p>- [Getting Started With NEAR PROTOCOL: A Beginner's Guide to Building Decentralized Apps](https://ajayidamolaramon.hashnode.dev/getting-started-with-near-protocol-a-beginnerss-guide-to-building-decentralized-apps)</p>
+<p>- [Getting Started With NEAR PROTOCOL: A Beginners Guide to Building Decentralized Apps](https://ajayidamolaramon.hashnode.dev/getting-started-with-near-protocol-a-beginners-guide-to-building-decentralized-apps)</p>
 <p>- [Building a Decentralized Job Board Application on ICP with Rust: A Step-by-Step Guide](https://ajayidamolaramon.hashnode.dev/building-a-decentralized-job-board-application-on-icp-with-rust-a-step-by-step-guide)</p>
 <p>- [Building a Tic-Tac-Toe Game on Solana: A Step-by-Step Guide Using Anchor and Rust](https://ajayidamolaramon.hashnode.dev/building-a-tic-tac-toe-game-on-solana-a-step-by-step-guide-using-anchor-and-rust)</p>
 <p>- [Rust Traits for Beginners: A Comprehensive Guide](https://ajayidamolaramon.hashnode.dev/rust-traits-for-beginners-a-comprehensive-guide)</p>
