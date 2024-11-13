@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUCoxPUDVtEkxTdh2WU2oak9TgZFLP-sTEGw&s" alt="Developer and Technical Writer Image" /></a>
+<a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCo1Gk55o1m2zSShzBYax-7tWZR8MFxH7CQ_vdrLlCUThtLsK9XkcGvXDL6I3X8aQrOr8&usqp=CAU" alt="Developer and Technical Writer Image" /></a>
 
 <h1 align="center">I'm Ajayi Damola Ramon</h1>
 <h3 align="center">A Blockchain Developer with Rust, Data Analyst, and Technical Writer</h3>
